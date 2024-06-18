@@ -8,13 +8,12 @@ public class ClassesAtributosMetodos {
 
 
 
-    public 
 
    
-    public String TituloPelicula (String pelicula){
-        return "Pelicula: "+  pelicula;
-    }
-    public String EmpresaFinancia(String empresa){
-        return "Empresa que la financia: "+ empresa;
-    }
+    // public String TituloPelicula (String pelicula){
+    //     return "Pelicula: "+  pelicula;
+    // }
+    // public String EmpresaFinancia(String empresa){
+    //     return "Empresa que la financia: "+ empresa;
+    // }
 }
